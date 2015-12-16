@@ -1,0 +1,16 @@
+# Compiled Files
+*.pyc
+
+# Data files
+*.npy
+*.mat
+data/
+
+# OS generated files
+.DS_Store
+
+# Backup files
+*~
+
+# Images
+*.png
